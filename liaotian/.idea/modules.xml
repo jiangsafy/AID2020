@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://F:/liaotian_new/.idea/liaotian.iml" filepath="F:/liaotian_new/.idea/liaotian.iml" />
+      <module fileurl="file://F:/new_res/.idea/new_res.iml" filepath="F:/new_res/.idea/new_res.iml" />
+      <module fileurl="file://F:/spider/.idea/spider.iml" filepath="F:/spider/.idea/spider.iml" />
+      <module fileurl="file://F:/人工智能/.idea/人工智能.iml" filepath="F:/人工智能/.idea/人工智能.iml" />
+      <module fileurl="file://F:/新数据分析/.idea/新数据分析.iml" filepath="F:/新数据分析/.idea/新数据分析.iml" />
+      <module fileurl="file://F:/算法/.idea/算法.iml" filepath="F:/算法/.idea/算法.iml" />
+    </modules>
+  </component>
+</project>
